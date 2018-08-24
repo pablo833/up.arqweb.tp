@@ -3,7 +3,8 @@
 
 ### Descripción del Negocio:
 ```
-La idea es representar un tablero Kanban para que personas puedan crear Tareas y gestiopnarlas de forma ágil e intuitiva.
+La idea es representar un tablero Kanban para que personas puedan crear Tareas y 
+gestiopnarlas de forma ágil e intuitiva.
 ```
 Verbs | URL
 ------|----
