@@ -7,7 +7,7 @@
 
 Verbs | URL
 ------|----
-**GET** | http://ip:puerto/api/v1.0/boards/{id}/
+**GET** | http://ip:puerto/api/v1.0/boards/
 **GET** | http://ip:puerto/api/v1.0/boards/{id}/tasks
 **GET** | http://ip:puerto/api/v1.0/tasks/
 **GET** | http://ip:puerto/api/v1.0/users/
